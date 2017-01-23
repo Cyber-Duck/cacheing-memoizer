@@ -1,0 +1,12 @@
+{
+    "name": "cyber-duck/cacheing-memoizer",
+    "description": "Easy to use, flexible memoizer with optional automated cacheing",
+    "type": "library",
+    "authors": [
+        {
+            "name": "David Jordan",
+            "email": "davidj@cyber-duck.co.uk"
+        }
+    ],
+    "require": {}
+}
