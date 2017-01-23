@@ -13,5 +13,6 @@
         "psr-4": {
             "CyberDuck\\CacheingMemoizer\\": "/"
         }
-    }
+    },
+    "license" : "MIT"
 }
