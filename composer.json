@@ -8,5 +8,10 @@
             "email": "davidj@cyber-duck.co.uk"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CyberDuck\\CacheingMemoizer": "/"
+        }
+    }
 }
