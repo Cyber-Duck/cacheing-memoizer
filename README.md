@@ -1,3 +1,7 @@
+# 🚨 Discontinued 🚨
+Please consider using the out of the box caching functionality in Laravel.
+
+
 # Simple Cacheing Memoizer
 
 Our Simple Cacheing Memoizer is a flexible memoizer that can also optionally be combined with a cache to automatically 
