@@ -1,5 +1,5 @@
 # 🚨 Discontinued 🚨
-Please consider using the out of the box caching functionality in Laravel.
+Please consider using the [illuminate cache package](https://packagist.org/packages/illuminate/cache).
 
 
 # Simple Cacheing Memoizer
